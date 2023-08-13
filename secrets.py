@@ -1,1 +1,1 @@
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = 'your_github_tokens'
